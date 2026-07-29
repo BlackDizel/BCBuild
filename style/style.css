@@ -9,7 +9,6 @@ body {
 	display: flex;   	
 	flex-wrap: wrap;
 	max-width: 1500px;
-	width: 100%; 
 	margin-top: 40px;
 	margin-left: 40px;
 	gap: 60px;
@@ -17,14 +16,9 @@ body {
 
 .content-square {
 	width: 700px;
-	height: 700px;
-
-	/* Prevents padding/borders from breaking your fixed size */
+	aspect-ratio: 1 / 1; 
 	box-sizing: border-box; 
-
-	/* Dictates what happens if the content is too large for the box */
 	overflow: none;
-
 }
 
 .header-menu {
@@ -34,7 +28,6 @@ body {
 	gap: 40px;
 }
 
-
 .menu-item {
 	font-size: 32pt;
 	font-weight: bold;
@@ -42,9 +35,13 @@ body {
 	margin-top: 10px;
 }
 
-.container-logo {
+.container-logo-desktop {
 	margin-right: 40px;
 	margin-left: auto; 
+}
+
+.container-logo-mobile {
+	display: none;
 }
 
 .content-image {
@@ -53,7 +50,6 @@ body {
 	object-fit: cover;
 	border-radius: 20px;
 }
-
 
 .item-title {
 	margin-top: 0px;
@@ -78,7 +74,7 @@ body {
 .logo-description {
 	margin: 0px;
 	font-size: 14pt;
-	 text-align: center;
+	text-align: center;
 }
 
 .contacts-content {
@@ -95,3 +91,60 @@ body {
 	margin-top: 60px;
 	font-size: 14pt;
 }
+
+@media (max-width: 768px) {
+	.container-logo-desktop {
+		display: none; /* Hide on mobile */
+	}
+
+	.container-logo-mobile {
+
+		align-items: center;
+		display: flex;
+		flex-direction: column; 
+	}
+	.logo-description{
+		font-size: 10pt;
+	}
+	.logo-image-mobile{
+		width: 50vw;
+	}
+
+	.menu-item {
+		font-size: 20pt;
+		margin-top: 0px;
+	}
+	.header-menu {
+		margin-left: 16px;
+		gap:16px;
+		margin-top: 60px;
+		justify-content:center;
+	}
+	.content-container {
+		margin-top: 16px;
+		margin-left: 16px;
+		gap: 16px;
+	}
+	.item-title {
+		font-size: 20pt;
+	}
+	.item-description {
+		font-size: 16pt;
+	}
+	.item-disclaimer {
+		font-size: 12pt;
+	}
+	.item-price {
+		font-size: 20pt;
+	}
+
+	.contacts-item {
+		font-size: 16pt;
+	}
+
+	.contacts-description{
+		font-size: 10pt;
+	}
+
+}
+
