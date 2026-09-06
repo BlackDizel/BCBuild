@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.5007929"
-     inkscape:cx="2404.1874"
-     inkscape:cy="608.03578"
+     inkscape:zoom="0.35411406"
+     inkscape:cx="4423.7159"
+     inkscape:cy="938.963"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffff00">
@@ -88,6 +88,18 @@
        width="508"
        height="285.75"
        id="page14" />
+    <inkscape:page
+       x="1036"
+       y="0"
+       width="507.99994"
+       height="285.74997"
+       id="page1" />
+    <inkscape:page
+       x="1553.9999"
+       y="0"
+       width="507.99994"
+       height="285.74997"
+       id="page12" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -329,6 +341,244 @@
        width="1139.1934"
        height="59.905003"
        id="rect14-8-5-9-2" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4-4-9-8-3-4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.0519154,0,1 @ F,0,1,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.0519154,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5-2-6-2-9-9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,4.2901539,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.2207668,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6-2-8-0-5-7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.4890793,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.3896176,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-1-6-4-0-3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.6555869,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.8905123,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="1299.9386"
+       y="145.76884"
+       width="371.41101"
+       height="51.917667"
+       id="rect15-3-6" />
+    <rect
+       x="123.80367"
+       y="63.89867"
+       width="259.42712"
+       height="67.660164"
+       id="rect3-3-5" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-0" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-0-2" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4-4-9-8-3-4-3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.0519154,0,1 @ F,0,1,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.0519154,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5-2-6-2-9-9-2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,4.2901539,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.2207668,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6-2-8-0-5-7-2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.4890793,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.3896176,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-1-6-4-0-3-5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.6555869,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.8905123,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="1299.9386"
+       y="145.76884"
+       width="371.41101"
+       height="51.917667"
+       id="rect15-3-6-4" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="903.74762"
+       height="176.99854"
+       id="rect14-0-3" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="1657.742"
+       height="524.34425"
+       id="rect14-0-3-5" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="570.52156"
+       height="92.280052"
+       id="rect14-0-3-5-8" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="570.52155"
+       height="92.280052"
+       id="rect14-0-3-5-8-0" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-0-8" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-0-8-7" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-0-8-1" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-7" />
+    <rect
+       x="2024.7891"
+       y="161.74352"
+       width="528.16241"
+       height="49.920834"
+       id="rect14-0-7-1" />
+    <rect
+       x="123.80367"
+       y="63.89867"
+       width="586.9078"
+       height="67.660164"
+       id="rect3-3-5-6" />
+    <rect
+       x="123.80367"
+       y="63.89867"
+       width="586.90778"
+       height="67.660164"
+       id="rect3-3-5-6-9" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -350,6 +600,30 @@
        x="514.86743"
        y="-4.0098805"
        ry="14.218739" />
+    <rect
+       style="fill:#e8eaec;fill-opacity:1;stroke-width:0.527819"
+       id="rect1-6-8"
+       width="512.14288"
+       height="301.27542"
+       x="1019.2189"
+       y="-6.4341221"
+       ry="14.435349" />
+    <rect
+       style="fill:#e8eaec;fill-opacity:1;stroke-width:0.731856"
+       id="rect1-6-8-8"
+       width="512.14288"
+       height="579.2226"
+       x="996.15826"
+       y="317.10153"
+       ry="27.752947" />
+    <rect
+       style="fill:#e8eaec;fill-opacity:1;stroke-width:0.988235"
+       id="rect1-6-8-3"
+       width="519.61456"
+       height="1040.9357"
+       x="1550.569"
+       y="-2.7014437"
+       ry="49.875534" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-16.811321,-1.152437)"
@@ -357,17 +631,17 @@
        style="font-weight:bold;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect3);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
          x="123.80273"
          y="102.33065"
-         id="tspan2">ПРОЕКТЫ</tspan></text>
+         id="tspan3">ПРОЕКТЫ</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
-       x="95.264153"
+       x="162.36192"
        y="26.119259"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="stroke-width:0.529167"
-         x="95.264153"
+         x="162.36192"
          y="26.119259">КОНТАКТЫ</tspan></text>
     <g
        id="g4"
@@ -418,7 +692,7 @@
        style="font-weight:bold;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect3-3);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
          x="123.80273"
          y="102.33065"
-         id="tspan3">ПРОЕКТЫ</tspan></text>
+         id="tspan6">ПРОЕКТЫ</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
@@ -429,7 +703,75 @@
          id="tspan4-3"
          style="stroke-width:0.529167"
          x="613.53522"
-         y="26.480721">КОНТАКТЫ</tspan></text>
+         y="26.480721">БЛОГ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
+       x="101.85001"
+       y="26.112268"
+       id="text4-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-73"
+         style="stroke-width:0.529167"
+         x="101.85001"
+         y="26.112268">БЛОГ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
+       x="659.97809"
+       y="26.736946"
+       id="text4-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-7"
+         style="stroke-width:0.529167"
+         x="659.97809"
+         y="26.736946">КОНТАКТЫ</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1029.3312,-2.2771924)"
+       id="text2-6-1"
+       style="font-weight:bold;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect3-3-5);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
+         x="123.80273"
+         y="102.33065"
+         id="tspan7">ПРОЕКТЫ</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1174.8193,208.50434)"
+       id="text2-6-1-0"
+       style="font-weight:bold;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect3-3-5-6);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
+         x="123.80273"
+         y="102.33065"
+         id="tspan8">КУПИТЬ ДОМОКОМПЛЕКТ</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,147.925,245.85559)"
+       id="text2-6-1-0-7"
+       style="font-weight:bold;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect3-3-5-6-9);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
+         x="123.80273"
+         y="102.33065"
+         id="tspan9">КУПИТЬ ДОМОКОМПЛЕКТ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
+       x="1141.4066"
+       y="24.994503"
+       id="text4-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-72"
+         style="stroke-width:0.529167"
+         x="1141.4066"
+         y="24.994503">БЛОГ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
+       x="1187.8495"
+       y="25.250729"
+       id="text4-3-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4-3-7-3"
+         style="stroke-width:0.529167"
+         x="1187.8495"
+         y="25.250729">КОНТАКТЫ</tspan></text>
     <g
        id="g4-5"
        transform="matrix(0.78820388,0,0,0.78820388,574.22928,-1.8325263)">
@@ -443,7 +785,7 @@
          transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
       <path
          style="fill:#fdc169;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-         d="M 114.41884,200.93302 H 85.375659 L 102.04233,184.26635 85.375659,167.59968 h 30.112561 a 3.2207668,3.2207668 45 0 1 3.22077,3.22077 v 25.82242 a 4.2901539,4.2901539 135 0 1 -4.29015,4.29015 z"
+         d="m 114.41884,200.93302 -29.043181,0 16.666671,-16.66667 -16.666671,-16.66667 h 30.112561 a 3.2207668,3.2207668 45 0 1 3.22077,3.22077 v 25.82242 a 4.2901539,4.2901539 135 0 1 -4.29015,4.29015 z"
          id="path1-7-2-3-9-4-0-6"
          sodipodi:nodetypes="cccccc"
          inkscape:path-effect="#path-effect5-2-6-2-9"
@@ -451,7 +793,7 @@
          transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
       <path
          style="fill:#feed93;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-         d="m 127.86474,167.59968 h 30.84425 l -16.66666,16.66667 16.66666,16.66667 h -29.94371 a 3.3896176,3.3896176 45 0 1 -3.38962,-3.38962 v -27.45464 a 2.4890793,2.4890793 135 0 1 2.48908,-2.48908 z"
+         d="m 127.86474,167.59968 h 30.84425 l -16.66666,16.66667 16.66666,16.66667 h -29.94371 a 3.3896176,3.3896176 45 0 1 -3.38962,-3.38962 l 0,-27.45464 a 2.4890793,2.4890793 135 0 1 2.48908,-2.48908 z"
          id="path1-7-5-3-2-4-3-7-6"
          sodipodi:nodetypes="cccccc"
          inkscape:path-effect="#path-effect6-2-8-0-5"
@@ -474,6 +816,47 @@
        x="16.906523"
        y="56.002853"
        ry="14.218739" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.335708"
+       id="rect5-4"
+       width="124.68561"
+       height="124.68561"
+       x="1064.9838"
+       y="-198.35001"
+       ry="9.0204897"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.335708"
+       id="rect5-4-1"
+       width="124.68561"
+       height="124.68561"
+       x="1201.0817"
+       y="74.420517"
+       ry="9.0204897" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.335708"
+       id="rect5-4-5"
+       width="124.68561"
+       height="124.68561"
+       x="1337.8938"
+       y="74.297562"
+       ry="9.0204897" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.335708"
+       id="rect5-4-8"
+       width="124.68561"
+       height="124.68561"
+       x="1474.484"
+       y="74.295677"
+       ry="9.0204897" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
+       id="rect5-4-9"
+       width="196.53833"
+       height="196.53833"
+       x="1145.7985"
+       y="389.58646"
+       ry="14.218739" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
@@ -492,24 +875,24 @@
        style="font-weight:bold;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect6);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
          x="914.54883"
          y="347.94198"
-         id="tspan7"><tspan
-           style="font-weight:normal;-inkscape-font-specification:Arial"
-           id="tspan6">Для проживания одного человека, </tspan></tspan><tspan
-         x="914.54883"
-         y="401.27536"
-         id="tspan9"><tspan
-           style="font-weight:normal;-inkscape-font-specification:Arial"
-           id="tspan8">КПП, садового строения или бытовки.&#10;</tspan></tspan><tspan
-         x="914.54883"
-         y="454.60873"
          id="tspan11"><tspan
            style="font-weight:normal;-inkscape-font-specification:Arial"
-           id="tspan10">Односкатная, двускатная низкая или </tspan></tspan><tspan
+           id="tspan10">Для проживания одного человека, </tspan></tspan><tspan
          x="914.54883"
-         y="507.94211"
+         y="401.27536"
+         id="tspan13"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan12">КПП, садового строения или бытовки.&#10;</tspan></tspan><tspan
+         x="914.54883"
+         y="454.60873"
          id="tspan15"><tspan
            style="font-weight:normal;-inkscape-font-specification:Arial"
-           id="tspan14">высокая крыша.&#10;</tspan></tspan></text>
+           id="tspan14">Односкатная, двускатная низкая или </tspan></tspan><tspan
+         x="914.54883"
+         y="507.94211"
+         id="tspan21"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Arial"
+           id="tspan20">высокая крыша.&#10;</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -517,40 +900,40 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
          x="912.13477"
          y="595.72427"
-         id="tspan20">&#10;</tspan><tspan
+         id="tspan22">&#10;</tspan><tspan
          x="912.13477"
          y="619.05764"
-         id="tspan21">В стандартной конфигурации домокомплект включает каркас пола, каркас стен, </tspan><tspan
+         id="tspan23">В стандартной конфигурации домокомплект включает каркас пола, каркас стен, </tspan><tspan
          x="912.13477"
          y="642.39102"
-         id="tspan22">стропильная система.&#10;</tspan><tspan
+         id="tspan24">стропильная система.&#10;</tspan><tspan
          x="912.13477"
          y="665.72439"
-         id="tspan23">&#10;</tspan><tspan
-         x="912.13477"
-         y="689.05777"
-         id="tspan24">Выполняется из доски 40х150 по русской, финской или американской технологии. &#10;</tspan><tspan
-         x="912.13477"
-         y="712.39114"
          id="tspan25">&#10;</tspan><tspan
          x="912.13477"
+         y="689.05777"
+         id="tspan26">Выполняется из доски 40х150 по русской, финской или американской технологии. &#10;</tspan><tspan
+         x="912.13477"
+         y="712.39114"
+         id="tspan27">&#10;</tspan><tspan
+         x="912.13477"
          y="735.72451"
-         id="tspan49">Опционально  покрытие огнебиозащитой, окрас, окна, утеплитель, листовой материал </tspan><tspan
+         id="tspan28">Опционально  покрытие огнебиозащитой, окрас, окна, утеплитель, листовой материал </tspan><tspan
          x="912.13477"
          y="759.05789"
-         id="tspan50">на зашив фасадов. &#10;</tspan><tspan
+         id="tspan29">на зашив фасадов. &#10;</tspan><tspan
          x="912.13477"
          y="782.39126"
-         id="tspan51">&#10;</tspan><tspan
+         id="tspan30">&#10;</tspan><tspan
          x="912.13477"
          y="805.72464"
-         id="tspan52">После согласования проекта здания закупается и распиливается в размер </tspan><tspan
+         id="tspan31">После согласования проекта здания закупается и распиливается в размер </tspan><tspan
          x="912.13477"
          y="829.05801"
-         id="tspan53">пиломатериал, домокомплект собирается и разбирается на сборочной площадке, </tspan><tspan
+         id="tspan32">пиломатериал, домокомплект собирается и разбирается на сборочной площадке, </tspan><tspan
          x="912.13477"
          y="852.39138"
-         id="tspan54">загружается и отправляется заказчику.</tspan></text>
+         id="tspan33">загружается и отправляется заказчику.</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-1.0566577,15.321536)"
@@ -558,9 +941,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect11);display:inline;fill:#1c1f22;fill-opacity:1;stroke-width:2"><tspan
          x="918.54297"
          y="893.07675"
-         id="tspan56"><tspan
+         id="tspan35"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#b81414"
-           id="tspan55">от 60000Р</tspan></tspan></text>
+           id="tspan34">от 60000Р</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-2.6416442,0.52832884)"
@@ -568,9 +951,134 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14);display:inline;fill:#b81414;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan58"><tspan
+         id="tspan37"><tspan
            style="fill:#242424"
-           id="tspan57">телеграмм</tspan></tspan></text>
+           id="tspan36">телеграмм</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,478.9998,308.39331)"
+       id="text14-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0);display:inline;fill:#b81414;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="200.17636"
+         id="tspan39"><tspan
+           style="fill:#000000"
+           id="tspan38">Домокомплект 3х4 2019</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,477.80209,336.01217)"
+       id="text14-3-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-7);display:inline;fill:#b81414;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="190.56828"
+         id="tspan41"><tspan
+           style="fill:#000000"
+           id="tspan40">Блаблабла</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,479.09775,350.50609)"
+       id="text14-3-1-0"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-7-1);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="190.56828"
+         id="tspan42">Подробнее...</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1194.4726,181.03779)"
+       id="text14-3-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-3);display:inline;fill:#b81414;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="238.60849"
+         id="tspan44"><tspan
+           style="fill:#000000"
+           id="tspan43">Домокомплект 3х4</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1050.2088,223.69718)"
+       id="text14-3-4-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-3-5);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="200.17636"
+         id="tspan45">Структура  поста:&#10;</tspan><tspan
+         x="2024.7891"
+         y="253.50973"
+         id="tspan46">Быстрые выражения для привлечения внимания&#10;</tspan><tspan
+         x="2024.7891"
+         y="306.84311"
+         id="tspan47">&#10;</tspan><tspan
+         x="2024.7891"
+         y="360.17648"
+         id="tspan48">Тело поста&#10;</tspan><tspan
+         x="2024.7891"
+         y="413.50985"
+         id="tspan49">&#10;</tspan><tspan
+         x="2024.7891"
+         y="466.84323"
+         id="tspan50">Призыв к действию: заказать  домокомплект по ссылкам в контаках</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1251.2521,538.73474)"
+       id="text14-3-4-1-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-3-5-8);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="200.17636"
+         id="tspan51">Рис.1. Блабла</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1255.5693,870.23654)"
+       id="text14-3-4-1-5-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-3-5-8-0);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="200.17636"
+         id="tspan52">Видео 1. Блабла</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,482.3542,407.26382)"
+       id="text14-3-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-0);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="200.17636"
+         id="tspan53">Утепление</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,479.43045,420.66737)"
+       id="text14-3-6-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-0-8);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="190.56828"
+         id="tspan55"><tspan
+           style="fill:#4d4d4d"
+           id="tspan54">#общее #справочное</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,478.47928,468.26088)"
+       id="text14-3-6-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-0-8-1);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="190.56828"
+         id="tspan57"><tspan
+           style="fill:#4d4d4d"
+           id="tspan56">#общее #справочное</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,478.94791,323.73104)"
+       id="text14-3-6-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-0-8-7);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"
+       inkscape:transform-center-x="2.2415092"
+       inkscape:transform-center-y="-0.74716974"><tspan
+         x="2024.7891"
+         y="190.56828"
+         id="tspan59"><tspan
+           style="fill:#4d4d4d"
+           id="tspan58">#проект</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,477.61621,453.09735)"
+       id="text14-3-6-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-0-0-2);display:inline;fill:#000000;fill-opacity:1;stroke-width:2"><tspan
+         x="2024.7891"
+         y="200.17636"
+         id="tspan60">Фундамент</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-2.7175072,18.34773)"
@@ -578,7 +1086,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-8);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan59">вк</tspan></text>
+         id="tspan61">вк</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-3.7904354,39.308177)"
@@ -586,7 +1094,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-8-9);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan60">группа в вк</tspan></text>
+         id="tspan62">группа в вк</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-4.6155909,57.945496)"
@@ -594,7 +1102,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-8-9-3);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan61">Авито</tspan></text>
+         id="tspan63">Авито</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-4.6982946,77.328161)"
@@ -602,7 +1110,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-8-5);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan62">YouTube</tspan></text>
+         id="tspan64">YouTube</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-4.4238891,100.8296)"
@@ -610,7 +1118,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-8-5-9);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan63">TikTok</tspan></text>
+         id="tspan65">TikTok</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-4.3974309,118.89776)"
@@ -618,7 +1126,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-8-5-9-2);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan64">другие социальные сети: LighthouseBuild</tspan></text>
+         id="tspan66">другие социальные сети: LighthouseBuild</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,30.070564,264.73839)"
@@ -626,7 +1134,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect14-1);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="2024.7891"
          y="200.17636"
-         id="tspan65">t.me/AlexandrBuildAny</tspan></text>
+         id="tspan67">t.me/AlexandrBuildAny</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,3.1754717,-11.767925)"
@@ -634,9 +1142,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect15);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="1299.9395"
          y="184.20175"
-         id="tspan67"><tspan
+         id="tspan69"><tspan
            style="font-size:18.6667px"
-           id="tspan66">домокомплекты калужской области</tspan></tspan></text>
+           id="tspan68">домокомплекты калужской области</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,522.721,-11.115777)"
@@ -644,9 +1152,101 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect15-3);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
          x="1299.9395"
          y="184.20175"
-         id="tspan69"><tspan
+         id="tspan71"><tspan
            style="font-size:18.6667px"
-           id="tspan68">домокомплекты калужской области</tspan></tspan></text>
+           id="tspan70">домокомплекты калужской области</tspan></tspan></text>
+    <g
+       id="g4-5-9"
+       transform="matrix(0.78820388,0,0,0.78820388,1148.4764,-1.7680133)">
+      <path
+         style="fill:#723932;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5.3756594,197.8811 v -30.28142 l 16.6666666,16.66667 16.666666,-16.66667 v 30.28142 a 3.0519154,3.0519154 135 0 1 -3.051915,3.05192 H 8.4275748 A 3.0519154,3.0519154 45 0 1 5.3756594,197.8811 Z"
+         id="path1-1-5-4-3-3-1-8"
+         sodipodi:nodetypes="cccccc"
+         inkscape:path-effect="#path-effect4-4-9-8-3-4"
+         inkscape:original-d="m 5.3756594,200.93302 v -33.33334 l 16.6666666,16.66667 16.666666,-16.66667 v 33.33334 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+      <path
+         style="fill:#fdc169;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 114.41884,200.93302 -29.043181,0 16.666671,-16.66667 -16.666671,-16.66667 h 30.112561 a 3.2207668,3.2207668 45 0 1 3.22077,3.22077 v 25.82242 a 4.2901539,4.2901539 135 0 1 -4.29015,4.29015 z"
+         id="path1-7-2-3-9-4-0-6-4"
+         sodipodi:nodetypes="cccccc"
+         inkscape:path-effect="#path-effect5-2-6-2-9-9"
+         inkscape:original-d="M 118.70899,200.93302 H 85.375659 L 102.04233,184.26635 85.375659,167.59968 h 33.333331 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+      <path
+         style="fill:#feed93;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 127.86474,167.59968 h 30.84425 l -16.66666,16.66667 16.66666,16.66667 h -29.94371 a 3.3896176,3.3896176 45 0 1 -3.38962,-3.38962 l 0,-27.45464 a 2.4890793,2.4890793 135 0 1 2.48908,-2.48908 z"
+         id="path1-7-5-3-2-4-3-7-6-2"
+         sodipodi:nodetypes="cccccc"
+         inkscape:path-effect="#path-effect6-2-8-0-5-7"
+         inkscape:original-d="m 125.37566,167.59968 h 33.33333 l -16.66666,16.66667 16.66666,16.66667 h -33.33333 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+      <path
+         style="fill:#e07c48;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.010487,197.66336 15.031839,-30.06368 14.926776,29.85356 a 2.4044691,2.4044691 121.71748 0 1 -2.150622,3.47978 H 49.031246 a 2.2592771,2.2592771 58.282524 0 1 -2.020759,-3.26966 z"
+         id="path2-8-4-4-7-9-7-5"
+         sodipodi:nodetypes="cccc"
+         inkscape:path-effect="#path-effect7-1-6-4-0-3"
+         inkscape:original-d="m 45.375659,200.93302 16.666667,-33.33334 16.666666,33.33334 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1096.9681,-11.051264)"
+       id="text15-1-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect15-3-6);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
+         x="1299.9395"
+         y="184.20175"
+         id="tspan73"><tspan
+           style="font-size:18.6667px"
+           id="tspan72">домокомплекты калужской области</tspan></tspan></text>
+    <g
+       id="g4-5-9-1"
+       transform="matrix(0.78820388,0,0,0.78820388,1662.452,-1.9088313)">
+      <path
+         style="fill:#723932;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5.3756594,197.8811 v -30.28142 l 16.6666666,16.66667 16.666666,-16.66667 v 30.28142 a 3.0519154,3.0519154 135 0 1 -3.051915,3.05192 H 8.4275748 A 3.0519154,3.0519154 45 0 1 5.3756594,197.8811 Z"
+         id="path1-1-5-4-3-3-1-8-8"
+         sodipodi:nodetypes="cccccc"
+         inkscape:path-effect="#path-effect4-4-9-8-3-4-3"
+         inkscape:original-d="m 5.3756594,200.93302 v -33.33334 l 16.6666666,16.66667 16.666666,-16.66667 v 33.33334 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+      <path
+         style="fill:#fdc169;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 114.41884,200.93302 -29.043181,0 16.666671,-16.66667 -16.666671,-16.66667 h 30.112561 a 3.2207668,3.2207668 45 0 1 3.22077,3.22077 v 25.82242 a 4.2901539,4.2901539 135 0 1 -4.29015,4.29015 z"
+         id="path1-7-2-3-9-4-0-6-4-7"
+         sodipodi:nodetypes="cccccc"
+         inkscape:path-effect="#path-effect5-2-6-2-9-9-2"
+         inkscape:original-d="M 118.70899,200.93302 H 85.375659 L 102.04233,184.26635 85.375659,167.59968 h 33.333331 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+      <path
+         style="fill:#feed93;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 127.86474,167.59968 h 30.84425 l -16.66666,16.66667 16.66666,16.66667 h -29.94371 a 3.3896176,3.3896176 45 0 1 -3.38962,-3.38962 l 0,-27.45464 a 2.4890793,2.4890793 135 0 1 2.48908,-2.48908 z"
+         id="path1-7-5-3-2-4-3-7-6-2-5"
+         sodipodi:nodetypes="cccccc"
+         inkscape:path-effect="#path-effect6-2-8-0-5-7-2"
+         inkscape:original-d="m 125.37566,167.59968 h 33.33333 l -16.66666,16.66667 16.66666,16.66667 h -33.33333 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+      <path
+         style="fill:#e07c48;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.010487,197.66336 15.031839,-30.06368 14.926776,29.85356 a 2.4044691,2.4044691 121.71748 0 1 -2.150622,3.47978 H 49.031246 a 2.2592771,2.2592771 58.282524 0 1 -2.020759,-3.26966 z"
+         id="path2-8-4-4-7-9-7-5-5"
+         sodipodi:nodetypes="cccc"
+         inkscape:path-effect="#path-effect7-1-6-4-0-3-5"
+         inkscape:original-d="m 45.375659,200.93302 16.666667,-33.33334 16.666666,33.33334 z"
+         transform="matrix(0.79375,0,0,0.79375,362.56192,-117.23551)" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1610.9437,-11.192082)"
+       id="text15-1-2-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect15-3-6-4);display:inline;fill:#242424;fill-opacity:1;stroke-width:2"><tspan
+         x="1299.9395"
+         y="184.20175"
+         id="tspan75"><tspan
+           style="font-size:18.6667px"
+           id="tspan74">домокомплекты калужской области</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#242424;fill-opacity:1;stroke-width:0.529167"
@@ -698,6 +1298,30 @@
        style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect4);display:inline;fill:#222528;stroke-width:2"><tspan
          x="2016.2988"
          y="657.85122"
-         id="tspan70">Домокомплекты производятся в Медынском районе Калужской области</tspan></text>
+         id="tspan76">Домокомплекты производятся в Медынском районе Калужской области</tspan></text>
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.416511"
+       id="rect5-8"
+       width="154.69682"
+       height="154.69682"
+       x="1740.5226"
+       y="63.163212"
+       ry="11.191678" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.529167"
+       id="rect5-8-6"
+       width="196.53833"
+       height="196.53833"
+       x="1721.7576"
+       y="371.81656"
+       ry="14.218739" />
+    <rect
+       style="fill:#1c1f22;fill-opacity:1;stroke-width:0.727405"
+       id="rect5-8-6-3"
+       width="371.37607"
+       height="196.53833"
+       x="1624.6588"
+       y="702.05157"
+       ry="14.218739" />
   </g>
 </svg>
