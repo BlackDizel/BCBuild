@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "МАЯК строит",
+  "image": "https://domik40.ru/images/logo.svg",
+  "url": "https://domik40.ru",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "пр. Ленина, д. 1",
+    "addressLocality": "Медынь",
+    "postalCode": "249950",
+    "addressCountry": "RU"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "09:00",
+    "closes": "18:00"
+  }
+}
