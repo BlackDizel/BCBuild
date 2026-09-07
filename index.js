@@ -1,0 +1,128 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "МАЯК строит",
+  "image": "https://domik40.ru/images/logo.svg",
+  "url": "https://domik40.ru",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "пр. Ленина, д. 1",
+    "addressLocality": "Медынь",
+    "postalCode": "249950",
+    "addressCountry": "RU"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "09:00",
+    "closes": "18:00"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "name": "Дом 3х6",
+      "image":"https://domik40.ru/images/3x6_1.png",
+      "description": "Подходит для проживания двух человек, может быть расширен верандой до 6м х 6м.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "100000"
+      }
+    },
+    
+    {
+      "@type": "Product",
+      "name": "Дом 6х6",
+      "image":"https://domik40.ru/images/6x6_1.png",
+      "description": "Подходит для проживания трех человек, комплектуется верандой либо двумя утепленными каркасами 3x6",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "160000"
+      }
+    },
+
+    {
+      "@type": "Product",
+      "name": "Дом 3х4",
+      "image":"https://domik40.ru/images/3x4_1.png",
+      "description": "Для проживания одного человека, КПП, садового строения или бытовки.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "60000"
+      }
+    },
+
+    {
+      "@type": "Product",
+      "name": "Дом 4х5",
+      "image":"https://domik40.ru/images/4x5_1.jpg",
+      "description": "Для проживания двух человек, в качестве бани.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "120000"
+      }
+    },
+
+    {
+      "@type": "Product",
+      "name": "Дом 6х8",
+      "image":"https://domik40.ru/images/6x8_1.png",
+      "description": "Подходит для проживания трех или четырех человек или в качестве мастерской.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "130000"
+      }
+    },
+    
+    {
+      "@type": "Product",
+      "name": "Гараж",
+      "image":"https://domik40.ru/images/garage_1.png",
+      "description": "Одно, два или три машиноместа",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "70000"
+      }
+    },
+ 
+
+    {
+      "@type": "Product",
+      "name": "Беседка мини",
+      "image":"https://domik40.ru/images/besedka-mini_1.png",
+      "description": "на двух-четырех человек",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "30000"
+      }
+    },   
+
+
+    {
+      "@type": "Product",
+      "name": "Беседка на компанию",
+      "image":"https://domik40.ru/images/besedka_1.png",
+      "description": "3м x 3м, 4.5м х 3м, 6м х 3м. Плоская, односкатная или двускатная крыша.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "60000"
+      }
+    }  
+
+  ]
+}
+</script>
