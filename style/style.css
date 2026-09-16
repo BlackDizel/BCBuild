@@ -1,199 +1,204 @@
-@charset 'utf-8';
+@charset "utf-8";
 
 body {
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #e8eaecff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e8eaecff;
 }
 
 .content-container {
-	display: flex;   	
-	flex-wrap: wrap;
-	max-width: 1500px;
-	margin-top: 40px;
-	margin-left: 40px;
-	gap: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    margin-top: 40px;
+    margin-left: 40px;
+    gap: 60px;
 }
 
 .content-square {
-	width: 700px;
-	aspect-ratio: 1 / 1; 
-	box-sizing: border-box; 
-	overflow: none;
+    width: 700px;
+    aspect-ratio: 1 / 1;
+    box-sizing: border-box;
+    overflow: none;
 }
 
 .header-menu {
-	margin-top: 40px;
-	margin-left: 40px;
-	display: flex;   
-	gap: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    display: flex;
+    gap: 40px;
 }
 
 .menu-item {
-	font-size: 32pt;
-	font-weight: bold;
-	margin: 0px;
-	margin-top: 10px;
+    font-size: 32pt;
+    font-weight: bold;
+	margin: 10px 0 0;
 }
 
 .container-logo-desktop {
-	margin-right: 40px;
-	margin-left: auto; 
+    margin-right: 40px;
+    margin-left: auto;
 }
 
 .container-logo-mobile {
-	display: none;
+    display: none;
 }
 
 .content-image {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-	border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
 }
 
 .item-title {
-	margin-top: 0px;
-	font-weight: bold;
-	font-size: 32pt;
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 32pt;
 }
 
 .item-description {
-	font-size: 24pt;
+    font-size: 24pt;
 }
 
 .item-disclaimer {
-	font-size: 14pt;
+    font-size: 14pt;
 }
 
 .item-price {
-	font-weight: bold;
-	font-size: 32pt;	
-	color:#b81414ff;
+    font-weight: bold;
+    font-size: 32pt;
+    color: #b81414ff;
 }
 
 .logo-description {
-	margin: 0px;
-	font-size: 14pt;
-	text-align: center;
+    margin: 0;
+    font-size: 14pt;
+    text-align: center;
 }
 
 .contacts-content {
 
-	margin: 40px;
-	max-width: 700px;
+    margin: 40px;
+    max-width: 700px;
 }
 
 .contacts-item {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	font-size: 24pt;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24pt;
 }
 
-.contacts-description{
-	margin-top: 20px;
-	font-size: 12pt;
-	text-align: justify;
+.contacts-description {
+    margin-top: 20px;
+    font-size: 12pt;
+    text-align: justify;
 }
 
 .blog-list-content {
-  display: flex;
-  flex-wrap: nowrap;     /* Forces items to stay on a single line */
-  overflow-x: auto;      /* Adds a horizontal scrollbar when items overflow */
-  overflow-y: hidden;    /* Disables vertical scrolling */
-  gap: 15px;             /* Adds spacing between the items */
-  padding: 10px;
-  width: 100%;           /* Ensures the container respects page boundaries */
+    display: flex;
+    flex-wrap: nowrap; /* Forces items to stay on a single line */
+    overflow-x: auto; /* Adds a horizontal scrollbar when items overflow */
+    overflow-y: hidden; /* Disables vertical scrolling */
+    gap: 15px; /* Adds spacing between the items */
+    padding: 10px;
+    width: 100%; /* Ensures the container respects page boundaries */
 }
 
 .blog-list-item {
-	flex: 0 0 auto;        /* CRITICAL: Prevents items from squishing/shrinking */
-	background-color: #ddd;
-	width: 480px;
-	aspect-ratio: 1 / 1; 
-	box-sizing: border-box; 
-	overflow: none;
+    flex: 0 0 auto; /* CRITICAL: Prevents items from squishing/shrinking */
+    background-color: #ddd;
+    width: 480px;
+    aspect-ratio: 1 / 1;
+    box-sizing: border-box;
+    overflow: none;
 }
 
 .blog-button-order-container {
-	display: flex;
-	justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .blog-button-order {
-	background-color: #ddd;
-	width: fit-content;
-	font-size: 20pt;
-	padding: 20px;
-	margin-top: 60px;
+    background-color: #ddd;
+    width: fit-content;
+    font-size: 20pt;
+    padding: 20px;
+    margin-top: 60px;
 }
 
 .blog-content {
-	margin: 40px;
 	max-width: 700px;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 40px auto;
 }
 
 .blog-content-item {
- text-indent: 20px;
-	margin-top: 20px;
-	font-size: 12pt;
-	text-align: justify;
+    text-indent: 20px;
+    margin-top: 20px;
+    font-size: 12pt;
+    text-align: justify;
 }
 
 @media (max-width: 768px) {
-	.container-logo-desktop {
-		display: none; /* Hide on mobile */
-	}
+    .container-logo-desktop {
+        display: none; /* Hide on mobile */
+    }
 
-	.container-logo-mobile {
+    .container-logo-mobile {
 
-		align-items: center;
-		display: flex;
-		flex-direction: column; 
-	}
-	.logo-description{
-		font-size: 10pt;
-	}
-	.logo-image-mobile{
-		width: 50vw;
-	}
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
 
-	.menu-item {
-		font-size: 20pt;
-		margin-top: 0px;
-	}
-	.header-menu {
-		margin-left: 16px;
-		gap:16px;
-		margin-top: 60px;
-		justify-content:center;
-	}
-	.content-container {
-		margin-top: 16px;
-		margin-left: 16px;
-		gap: 16px;
-	}
-	.item-title {
-		font-size: 20pt;
-	}
-	.item-description {
-		font-size: 16pt;
-	}
-	.item-disclaimer {
-		font-size: 12pt;
-	}
-	.item-price {
-		font-size: 20pt;
-	}
+    .logo-description {
+        font-size: 10pt;
+    }
 
-	.contacts-item {
-		font-size: 16pt;
-	}
+    .logo-image-mobile {
+        width: 50vw;
+    }
 
-	.contacts-description{
-		font-size: 10pt;
-	}
+    .menu-item {
+        font-size: 20pt;
+        margin-top: 0;
+    }
+
+    .header-menu {
+        margin-left: 16px;
+        gap: 16px;
+        margin-top: 60px;
+        justify-content: center;
+    }
+
+    .content-container {
+        margin-top: 16px;
+        margin-left: 16px;
+        gap: 16px;
+    }
+
+    .item-title {
+        font-size: 20pt;
+    }
+
+    .item-description {
+        font-size: 16pt;
+    }
+
+    .item-disclaimer {
+        font-size: 12pt;
+    }
+
+    .item-price {
+        font-size: 20pt;
+    }
+
+    .contacts-item {
+        font-size: 16pt;
+    }
+
+    .contacts-description {
+        font-size: 10pt;
+    }
 
 }
 
