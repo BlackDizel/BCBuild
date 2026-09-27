@@ -54,6 +54,10 @@ body {
     margin-top: 0;
     font-weight: bold;
     font-size: 32pt;
+
+    &.utp{
+        text-align: center;
+    }
 }
 
 .item-description {
@@ -62,6 +66,16 @@ body {
 
 .item-disclaimer {
     font-size: 14pt;
+}
+
+.item-utp {
+    font-size: 14pt;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.container-utp{
+    width: 700px;
 }
 
 .item-price {
