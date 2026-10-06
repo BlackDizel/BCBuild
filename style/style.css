@@ -8,17 +8,17 @@ body {
 .content-container {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1500px;
+    max-width: 1200px;
     margin-top: 40px;
     margin-left: 40px;
     gap: 60px;
+    margin-inline: auto;
 }
 
 .content-square {
-    width: 700px;
+    width: 500px;
     aspect-ratio: 1 / 1;
     box-sizing: border-box;
-    overflow: none;
 }
 
 .header-menu {
@@ -61,26 +61,24 @@ body {
 }
 
 .item-description {
-    font-size: 24pt;
+    font-size: 14pt;
 }
 
 .item-disclaimer {
-    font-size: 14pt;
+    font-size: 12pt;
 }
 
 .item-utp {
-    font-size: 14pt;
-    margin-left: 20px;
-    margin-right: 20px;
+    font-size: 12pt;
 }
 
 .container-utp{
-    width: 700px;
+    width: 500px;
 }
 
 .item-price {
     font-weight: bold;
-    font-size: 32pt;
+    font-size: 18pt;
     color: #b81414ff;
 }
 
@@ -141,7 +139,7 @@ body {
 }
 
 .blog-content {
-	max-width: 700px;
+	max-width: 600px;
 	margin: 40px auto;
 }
 
@@ -178,6 +176,7 @@ body {
     }
 
     .header-menu {
+        margin-inline: auto;
         margin-left: 16px;
         gap: 16px;
         margin-top: 60px;
